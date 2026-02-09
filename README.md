@@ -7,7 +7,7 @@ The board is designed to monitor key electrical parameters of a PEM fuel cell sy
 
 
 
-  Project Overview
+  ## Project Overview
 - Application: Fuel Cell Monitoring & Data Acquisition
 - Input Voltage Range: 24V – 45V DC
 - Microcontroller: ESP32-S3
