@@ -46,6 +46,31 @@ The board is designed to monitor key electrical parameters of a PEM fuel cell sy
 - ESP32-S3 platform
 - GitHub for version control and documentation
 
+---
+
+##  Enclosure Concept Design (Fusion 360)
+
+To extend the PCB into a complete product-level concept, a custom enclosure was modeled in Fusion 360 and integrated with the 3D PCB assembly.
+
+The enclosure was designed to validate mechanical fit, clearance, and component accessibility.
+
+### Design Specifications
+
+- Overall dimensions: 94 mm (L) × 94 mm (W) × 22 mm (H)
+- Enclosure wall thickness: 2 mm
+- Base clearance from PCB: 3 mm
+- Side clearance: 5 mm
+- PCB mounting standoff height: 3 mm
+- Standoff mounting hole diameter: 3 mm
+- Connectors openings are aligned with PCB layout
+
+### Mechanical Integration Highlights
+
+- PCB-to-enclosure alignment verified in 3D assembly
+- Internal standoff-based PCB mounting structure
+- External connector access defined
+- Clearance validated for component height
+
 
 
 ##  Author
